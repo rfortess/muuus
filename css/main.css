@@ -271,7 +271,7 @@ body {
 .logo {
   width: 500px;
   height: 500px;
-  background: url("/assets/imgs/muuus.png") no-repeat center center;
+  background: url("./assets/imgs/muuus.png") no-repeat center center;
   background-size: 100% auto;
   margin: 0 auto;
   position: relative;
